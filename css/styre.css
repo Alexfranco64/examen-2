@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ti{
+    text-align: center;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.formu{
+    width: 500px;
+max-width: 100%;
+margin: auto;
+margin-top: 40px;
+padding: 20px;
+box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);
+}
+.labeln,.labelnre{
+    display: block;
+    width: 100%;
+    margin-top: 40px;
+font-size: .5cm;
+}
